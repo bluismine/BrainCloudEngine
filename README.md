@@ -22,7 +22,7 @@ Have 2 way
   5. Submit a pull request :D
 
 * Second:
-  - Create new request to create new one feature.
+  - Create [new request](https://github.com/bluismine/BrainCloudEngine/issues/new/choose) to create new one feature.
     
 ### Support me:
 <p>
