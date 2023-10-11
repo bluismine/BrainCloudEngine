@@ -3,7 +3,7 @@
 
 ---
 
-<img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/bluismine/Brain-Cloud-Engine"> <img alt="GitHub" src="https://img.shields.io/github/license/bluismine/Brain-Cloud-Engine"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bluismine/brain-cloud-engine"> <a href="https://discord.gg/rfQ4MdKeGY"><img src="https://img.shields.io/discord/1035494305118298142?color=7289DA&amp;label=Discord&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
+<img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/bluismine/Brain-Cloud-Engine"> <img alt="GitHub" src="https://img.shields.io/github/license/bluismine/Brain-Cloud-Engine?color=blue"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bluismine/brain-cloud-engine?color=green"> <a href="https://discord.gg/rfQ4MdKeGY"><img src="https://img.shields.io/discord/1035494305118298142?color=7289DA&amp;label=Discord&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
 
 
 
