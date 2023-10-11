@@ -1,37 +1,29 @@
-<h1 align="center">BrainCloud</h1>
-<p align="center">BrainCloud Engine are collections of libraries I created to code faster with given functions, given APIs, and built-in libraries.</p>
+<h1 align="center">BrainCloudEngine</h1>
+<p align="center">BrainCloud Engine is library I created to code faster with given functions, given APIs, and built-in libraries.</p>
 
 ---
 
 <a href="https://github.com/bluismine/Brain-Cloud-Engine/releases"><img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/Bluismine/Brain-Cloud-Engine"></a> <a href="https://github.com/bluismine/Brain-Cloud-Engine/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/bluismine/Brain-Cloud-Engine?color=blue"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bluismine/brain-cloud-engine?color=green"> <a href="https://discord.gg/rfQ4MdKeGY"><img src="https://img.shields.io/discord/1035494305118298142?color=7289DA&amp;label=Discord&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
 
-
-
-## [libCloud](https://github.com/bluismine/Brain-Cloud-Engine/tree/main/libCloud)
-
-*  History
+## History
 1.  Created on October 11, 2023 _(when i starting ThreeStar project)_
 
-* [Wiki](https://github.com/bluismine/Brain-Cloud-Engine/wiki/libEngine)
+## [Wiki](https://github.com/bluismine/Brain-Cloud-Engine/wiki/libEngine)
   `You can read more in wiki.`
 
----
+## Contributing
 
-## [bEngine-Spigot]()
-
-* [Wiki](https://github.com/bluismine/Brain-Cloud-Engine/wiki/bEngine%E2%80%90Spigot)
-  `You can read more in wiki.`
-
----
-
-### Contributing
-
+Have 2 way
+* First:
 1. Fork it, your lib you wanna contribute!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+  2. Create your feature branch: `git checkout -b my-new-feature`
+  3. Commit your changes: `git commit -am 'Add some feature'`
+  4. Push to the branch: `git push origin my-new-feature`
+  5. Submit a pull request :D
 
+* Second:
+  - Create new request to create new one feature.
+    
 ### Support me:
 <p>
   <a href="https://www.buymeacoffee.com/bluismine"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a>
