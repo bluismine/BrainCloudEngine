@@ -4,7 +4,7 @@ import org.bcloud.cloudengine.color.ConsoleColor;
 
 public abstract class Debugger extends LogType {
 
-    private static boolean isDebugEnable;
+    private static boolean isDebugEnable = false;
 
     public static void debug(String... messages) {
         if (isDebugEnable) {
