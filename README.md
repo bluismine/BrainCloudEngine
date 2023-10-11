@@ -1,9 +1,11 @@
 <h1 align="center">BrainCloud</h1>
 <p align="center">BrainCloud Engine are collections of libraries I created to code faster with given functions, given APIs, and built-in libraries.</p>
 
-[![Discord](https://img.shields.io/discord/1035494305118298142?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/rfQ4MdKeGY)
-
 ---
+
+<img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/bluismine/Brain-Cloud-Engine"> <img alt="GitHub" src="https://img.shields.io/github/license/bluismine/Brain-Cloud-Engine"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bluismine/brain-cloud-engine"> <a href="https://discord.gg/rfQ4MdKeGY"><img src="https://img.shields.io/discord/1035494305118298142?color=7289DA&amp;label=Discord&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
+
+
 
 ## [libCloud](https://github.com/bluismine/Brain-Cloud-Engine/tree/main/libCloud)
 
